@@ -12,7 +12,7 @@ Teilnehmer:innen können nach dem Kurs Datensätze einlesen, verarbeiten und vis
 
 Weiter führende Informationen über den kostenfreien Kurs finden Sie unter folgendem Link: https://open.hpi.de/courses/programmieren-r2022
 
-Es gibt nicht die eine Musterlösung bei den Aufgaben, da verschiedene Lösungsansätze zum Ziel führen. Sie können allerdings meine Unterlagen als Referenz verwenden. Sehen Sie sich die Lösungen durch und passen Sie sie an, um Ihr Verständnis von R zu verbessern. Clonen oder laden Sie dazu dieses Repository einfach herunter.
-Um den größtmöglichen Lernerfolg zu erreichen empfiehlt es sich jedoch, die Aufgaben eigenständig zu lösen.
+Es gibt nicht die eine Musterlösung bei den Aufgaben, da verschiedene Lösungsansätze zum Ziel führen. Sie können allerdings meine Unterlagen als Referenz verwenden. Gehen Sie durch die Lösungen und passen Sie sie an, um Ihr Verständnis von R zu verbessern. Clonen oder laden Sie dazu dieses Repository einfach herunter.
+Um den größtmöglichen Lernerfolg zu erreichen, empfiehlt es sich jedoch die Aufgaben eigenständig zu lösen.
 
 Viel Spaß beim Lernen und bearbeiten der Aufgaben!
