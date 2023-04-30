@@ -5,7 +5,7 @@ In diesem Repo befinden sich alle von mir bearbeiteten Übungsaufgaben + Prüfun
 Programmieren mit R für Einsteiger 
 (OpenHPI Grundlagenkurs ohne Vorkenntnisse)
 
-In diesem Repository finden Sie alle von mir bearbeiteten Übungsaufgaben und Prüfungen zum OpenHPI Kurs "Programmieren mit R für Einsteiger" von Berry Boessenkool, Prof. Dr. Bert Arnrich und Pia Francesca Rissom. 
+In diesem Repository finden Sie alle von mir bearbeiteten Übungsaufgaben und Prüfungen zum OpenHPI Kurs "Programmieren mit R für Einsteiger" von Berry Boessenkool, Prof. Dr. Bert Arnrich und Pia Francesca Rissom. Die Gliederung erfolgt in Wochen und Unterkapitel und orientiert sich dabei an dem Kurs.
 
 Der Kurs kann zeitlich flexibel im Selbststudium bearbeitet werden (so auch von mir) und erfordert keine Vorkenntnisse.
 Teilnehmer:innen können nach dem Kurs Datensätze einlesen, verarbeiten und visualisieren.
